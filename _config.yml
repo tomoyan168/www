@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+
+# 
+ github: kimtm
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-cayman
+ gfm_quirks: paragraph_end
+
+# Site settings
+title: kimtm Page
+description: "kimtmのサイト"
+baseurl: ""
+github_repo_url : https://github.com/kimtm
+twitter_username: hUCbYiepb
+timezone: Asia/Tokyo
+
+# User
+author:
+  name: 'kimtm'
+  url:  https://kimtm.github.io/www/
+  twitter: hUCbYiepb
